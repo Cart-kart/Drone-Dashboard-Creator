@@ -25,6 +25,7 @@ Then fill in `SITE_CONFIG` at the top of `index.html`. See [NEW-SITE-CHECKLIST.m
 | Harley Davidson / DHL | [HD-DHL-Drone-Dashboard](https://github.com/Cart-kart/HD-DHL-Drone-Dashboard) | https://cart-kart.github.io/HD-DHL-Drone-Dashboard/ | Live V.0.7.5 |
 | PCG (Perfect Companion Group) | [PCG-Drone-Dashboard](https://github.com/Cart-kart/PCG-Drone-Dashboard) | https://cart-kart.github.io/PCG-Drone-Dashboard/ | Live |
 | Yusen Logistics | [Yusen-Drone-Dashboard](https://github.com/Cart-kart/Yusen-Drone-Dashboard) | https://cart-kart.github.io/Yusen-Drone-Dashboard/ | Live V.1.0 |
+| DKSH Bangna | [DKSH-Drone-Dashboard](https://github.com/Cart-kart/DKSH-Drone-Dashboard) | https://cart-kart.github.io/DKSH-Drone-Dashboard/ | Blank — SITE_CONFIG pending |
 
 ## Files
 
